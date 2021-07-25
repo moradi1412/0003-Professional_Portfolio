@@ -1,5 +1,5 @@
 # Professional_Portfolio
-![alt text](./assets/image/readme.JPG) 
+![website image](./assets/image/readme.png) 
 ## purpose 
 This will be a portfolio that will display all the works, links will browers each websites, offers my resume, and short introduction
 ## built with
